@@ -1,0 +1,11 @@
+c:\users\sungureanu\documents\visual studio 2015\Projects\Simple Socket Client\Simple Socket Client\bin\Debug\Simple Socket Client.exe.config
+c:\users\sungureanu\documents\visual studio 2015\Projects\Simple Socket Client\Simple Socket Client\bin\Debug\Simple Socket Client.exe
+c:\users\sungureanu\documents\visual studio 2015\Projects\Simple Socket Client\Simple Socket Client\bin\Debug\Simple Socket Client.pdb
+c:\users\sungureanu\documents\visual studio 2015\Projects\Simple Socket Client\Simple Socket Client\obj\Debug\Simple Socket Client.exe
+c:\users\sungureanu\documents\visual studio 2015\Projects\Simple Socket Client\Simple Socket Client\obj\Debug\Simple Socket Client.pdb
+C:\Users\sungureanu\Desktop\SimpleSocket\Simple Socket Client\Simple Socket Client\bin\Debug\Simple Socket Client.exe.config
+C:\Users\sungureanu\Desktop\SimpleSocket\Simple Socket Client\Simple Socket Client\obj\Debug\Simple Socket Client.exe
+C:\Users\sungureanu\Desktop\SimpleSocket\Simple Socket Client\Simple Socket Client\obj\Debug\Simple Socket Client.pdb
+C:\Users\sungureanu\Desktop\SimpleSocket\Simple Socket Client\Simple Socket Client\bin\Debug\Simple Socket Client.exe
+C:\Users\sungureanu\Desktop\SimpleSocket\Simple Socket Client\Simple Socket Client\bin\Debug\Simple Socket Client.pdb
+C:\Users\sungureanu\Desktop\SimpleSocket\Simple Socket Client\Simple Socket Client\obj\Debug\Simple Socket Client.csprojResolveAssemblyReference.cache

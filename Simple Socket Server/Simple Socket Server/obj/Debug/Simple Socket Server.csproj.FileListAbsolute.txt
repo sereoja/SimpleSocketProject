@@ -1,0 +1,12 @@
+c:\users\sungureanu\documents\visual studio 2015\Projects\Simple Socket Server\Simple Socket Server\bin\Debug\Simple Socket Server.exe.config
+c:\users\sungureanu\documents\visual studio 2015\Projects\Simple Socket Server\Simple Socket Server\bin\Debug\Simple Socket Server.exe
+c:\users\sungureanu\documents\visual studio 2015\Projects\Simple Socket Server\Simple Socket Server\bin\Debug\Simple Socket Server.pdb
+c:\users\sungureanu\documents\visual studio 2015\Projects\Simple Socket Server\Simple Socket Server\obj\Debug\Simple Socket Server.csprojResolveAssemblyReference.cache
+c:\users\sungureanu\documents\visual studio 2015\Projects\Simple Socket Server\Simple Socket Server\obj\Debug\Simple Socket Server.exe
+c:\users\sungureanu\documents\visual studio 2015\Projects\Simple Socket Server\Simple Socket Server\obj\Debug\Simple Socket Server.pdb
+C:\Users\sungureanu\Desktop\SimpleSocket\Simple Socket Server\Simple Socket Server\bin\Debug\Simple Socket Server.exe.config
+C:\Users\sungureanu\Desktop\SimpleSocket\Simple Socket Server\Simple Socket Server\obj\Debug\Simple Socket Server.exe
+C:\Users\sungureanu\Desktop\SimpleSocket\Simple Socket Server\Simple Socket Server\obj\Debug\Simple Socket Server.pdb
+C:\Users\sungureanu\Desktop\SimpleSocket\Simple Socket Server\Simple Socket Server\bin\Debug\Simple Socket Server.exe
+C:\Users\sungureanu\Desktop\SimpleSocket\Simple Socket Server\Simple Socket Server\bin\Debug\Simple Socket Server.pdb
+C:\Users\sungureanu\Desktop\SimpleSocket\Simple Socket Server\Simple Socket Server\obj\Debug\Simple Socket Server.csprojResolveAssemblyReference.cache
